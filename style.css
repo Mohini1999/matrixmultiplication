@@ -1,0 +1,56 @@
+* {
+    text-align: center;
+}
+h6 {
+    color: black;
+    border: 2px solid black;
+    padding: 10px;
+    margin-right: 35%;
+    margin-left: 35%;
+    margin-top: 20%;
+    border-radius: 5px;
+    font-style: italic;
+    font-size: 20%;
+}
+.matrix{
+    background-color: black;
+    padding: 10px;
+}
+button{
+    color: black;
+    background-color: white;
+    padding: 10px;
+    border-radius: 5px !important;
+    width: 200px;
+    border: 2px solid grey;
+}
+.heading {
+    font-size: 50px;
+    color: black;
+    text-align: center;
+    padding-top: 20px;
+}
+.matrixone {
+    border-radius: 2px;
+    border: 2px solid black;
+    height: 300px;
+    text-align: center;
+    font-size: 50px;
+    padding-top: 50px;
+}
+.matrixtwo {
+    border-radius: 2px;
+    border: 2px solid black;
+    height: 300px;
+    text-align: center;
+    font-size: 50px;
+    padding-top: 50px;
+}
+.multi {
+    border-radius: 2px;
+    border: 2px solid black;
+    height: 300px;
+    text-align: center;
+    font-size: 50px;
+    padding-top: 50px;
+}
